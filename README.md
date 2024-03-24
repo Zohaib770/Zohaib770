@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there! 👋 I'm [Zohaib Khalid]
 
-<!--
-**Zohaib770/Zohaib770** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science student passionate about software development and technology. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: Java, C++, HTML, CSS, JavaScript
+- **Tools & Frameworks**: Android Studio, Docker, Kubernetes
+- **Web Technologies**: HTML, CSS, JavaScript
+- **Mobile Development**: Android Studio
+- **Version Control**: Git
+
+## Interests
+
+I'm interested in:
+- **Backend Development**: Exploring server-side technologies and frameworks.
+- **Cloud Computing**: Learning more about deploying and managing applications on cloud platforms.
+  
+
